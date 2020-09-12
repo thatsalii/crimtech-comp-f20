@@ -3,14 +3,14 @@ Intro: Responses
 
 D. Install Git
 --------------
-Version: 
+Version: git version 2.20.1 (Apple Git-117)
 
 
 E. Install Python
 -----------------
-Version:
+Version: Python 2.7.10
 
 
 F. Install pip
 --------------
-Version:
+Version:pip 20.1.1 from /usr/local/lib/python3.8/site-packages/pip (python 3.8)
